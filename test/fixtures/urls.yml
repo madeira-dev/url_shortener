@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  originalUrl: MyText
+  slug: MyString
+  accessCount: 1
+
+two:
+  originalUrl: MyText
+  slug: MyString
+  accessCount: 1
